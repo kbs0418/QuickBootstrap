@@ -1,0 +1,204 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    border: 2px solid rgb(180, 177, 177);
+
+}
+
+.collapse{
+    margin-left: 600px;
+}
+
+
+
+.nav-item{
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    margin-left: 20px;
+}
+.content1{
+text-align: center;
+margin-top: 20px;
+margin-bottom: 20px;
+
+}
+
+.content1 h2{
+ font-size: 50px;
+ margin: 20px 0;
+}
+
+.content1 h3{
+    font-size: 50px;
+    color: rgb(45, 90, 185);
+    margin: 20px 0;
+}
+
+.text_content{
+    margin: 100px 0;
+    text-align: right;
+    margin-left: 100px;
+}
+.left h2{
+
+font-size: 50px;
+ 
+}
+
+.left p{
+    font-size: 16px;
+}
+
+
+.card1{
+ background-color: blanchedalmond;
+ padding: 30px 40px;
+}
+
+.card-title {
+margin:15px 0 ;
+}
+
+
+.card2{
+    padding: 30px 40px;
+    margin-left: 5%;
+}
+
+.card3{
+    padding: 30px 40px;
+}
+
+.card1, .card2 .card3 img{
+width: 100;
+}
+
+.footer{
+    background-color:#008AFF ;
+}*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    border: 2px solid rgb(180, 177, 177);
+
+}
+
+.collapse{
+    margin-left: 600px;
+}
+
+
+
+.nav-item{
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    margin-left: 20px;
+}
+.content1{
+text-align: center;
+margin-top: 20px;
+margin-bottom: 20px;
+
+}
+
+.content1 h2{
+ font-size: 50px;
+ margin: 20px 0;
+}
+
+.content1 h3{
+    font-size: 50px;
+    color: rgb(45, 90, 185);
+    margin: 20px 0;
+}
+
+.text_content{
+    
+    text-align: center;
+    
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+
+
+.left h2 {
+
+font-size: 50px;
+text-align: right;
+ color: rgb(234, 90, 109);
+}
+
+.left p{
+    font-size: 16px;
+    text-align: right;
+}
+
+
+.right h2{
+    text-align: left;
+    font-size: 50px;
+   color: rgb(27, 40, 84);
+   margin-left: 10px;
+}
+
+.card-section{
+    margin: 50px 0;
+}
+
+
+.card1{
+ background-color: #FDEBED;
+ padding: 30px 40px;
+}
+
+.card-title {
+margin:15px 0 ;
+}
+
+
+.card2{
+    padding: 30px 40px;
+    
+    background-color: #EBF9F4;
+}
+
+.card3{
+    padding: 30px 40px;
+    background-color: #FFF7E8;
+}
+
+.card1, .card2 .card3 img{
+width: 100;
+}
+
+
+footer 
+{
+     background-color: #008AFF; 
+     text-align: center;
+     padding: 40px 0;
+     margin-top: 50px;
+    }
+     
+footer p{
+
+color: #88caff;
+
+font-size: 18px;
+}
+ footer p span{
+      
+color: #fff;
+      
+font-size: 20px;
+      
+font-weight: 700;
+      
+letter-spacing: 2px;
+ }
